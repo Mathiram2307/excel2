@@ -1,0 +1,31 @@
+TransactionID,CustomerName,TransactionDate,Product,Quantity,Price,TotalAmount,PaymentMethod
+1,Cindy Maxwell MD,2024-03-26,Camera,1,274.81,274.81,Cash
+2,Thomas Duke,2024-04-04,Smartphone,2,611.7,1223.4,Gift Card
+3,Michael Gray,2024-05-13,Tablet,4,1192.65,4770.6,Cash
+4,Sarah Porter,2025-02-16,Laptop,4,987.82,3951.28,Credit Card
+5,Daniel Thompson,2024-04-30,Camera,1,274.8,274.8,Credit Card
+6,James West,2024-03-26,Smartphone,2,137.58,275.16,PayPal
+7,Lisa Medina,2024-04-23,Tablet,5,855.08,4275.4,Debit Card
+8,Jacob Klein,2024-07-24,Smartphone,1,1062.15,1062.15,Cash
+9,Danielle Rodriguez,2024-04-27,Smartwatch,4,522.75,2091.0,Gift Card
+10,Thomas Flores,2024-04-15,Camera,1,1206.78,1206.78,PayPal
+11,Kurt Mendoza,2024-06-09,Smartwatch,2,1272.39,2544.78,Cash
+12,Kelly Pittman,2025-01-18,Tablet,3,484.62,1453.86,Cash
+13,Rebecca Kim,2024-05-24,Headphones,2,1197.6,2395.2,Cash
+14,Tina Delgado,2024-06-10,Camera,2,703.18,1406.36,Credit Card
+15,Ebony Marks,2024-10-31,Smartwatch,3,781.71,2345.13,Credit Card
+16,Lisa Bradley,2024-07-23,Headphones,1,736.35,736.35,PayPal
+17,Amanda Black,2024-08-25,Laptop,5,443.05,2215.25,Credit Card
+18,Michelle Anderson,2024-08-30,Tablet,5,938.12,4690.6,Credit Card
+19,Allison Freeman,2024-11-12,Camera,1,529.32,529.32,Gift Card
+20,Nicole Garcia DDS,2024-04-28,Camera,1,357.44,357.44,Cash
+21,Frank Meyer,2024-11-12,Laptop,3,793.73,2381.19,PayPal
+22,Laura Hansen,2024-10-23,Smartphone,3,194.19,582.57,Gift Card
+23,Ann Allen,2024-08-29,Smartwatch,1,1235.42,1235.42,Credit Card
+24,Ian Maxwell,2024-12-08,Camera,1,454.0,454.0,Gift Card
+25,Ana Oneill,2024-12-13,Camera,3,883.35,2650.05,Debit Card
+26,David Watson,2024-10-13,Smartwatch,1,637.67,637.67,Credit Card
+27,Judith Ferrell,2024-11-24,Smartwatch,2,58.75,117.5,Cash
+28,Taylor Gray,2024-12-23,Tablet,5,1167.08,5835.4,PayPal
+29,Lisa Johnson,2024-11-01,Smartwatch,1,952.51,952.51,Credit Card
+30,Melissa Stevens,2024-06-26,Headphones,3,731.14,2193.42,Credit Card
